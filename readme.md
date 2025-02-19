@@ -9,6 +9,4 @@
 
 #### Slide link:
 
-```bash
 https://www.canva.com/design/DAGfKcClRMQ/ot5mOutgZT17AJPIGJlpdQ/edit?utm_content=DAGfKcClRMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-```
