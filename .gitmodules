@@ -1,0 +1,3 @@
+[submodule "crud-project"]
+	path = crud-project
+	url = https://github.com/Atan0707/crud-solana.git
